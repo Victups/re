@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
     })
   }
 
-  // Adicionar alguns posts de exemplo
+
   addNewPost(
     "Bem-vindos à nossa comunidade!",
     "Este é um espaço seguro para compartilharmos experiências e nos apoiarmos mutuamente.",
